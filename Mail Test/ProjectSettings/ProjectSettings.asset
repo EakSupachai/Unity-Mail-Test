@@ -119,7 +119,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleIdentifier: com.Company.ProductName
+  bundleIdentifier: com.Company.MailTest
   bundleVersion: 1.0
   preloadedAssets: []
   metroInputSource: 0
@@ -462,7 +462,7 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
-    Build: 1
+    Build: 0
     UNet: 1
   cloudProjectId: bcff1b7a-f60a-420b-b960-81024611bd88
   projectName: Mail Test
